@@ -25,7 +25,7 @@ If you also provide your mail account and a set of recipients, it will also send
 node index.js mymail@gmail.com mypassword recipient@recipientdomain.com
 ```
 
-at this time, only gmail accounts can be usedto send the mail.
+at this time, only gmail accounts can be used to send the mail.
 
 ###Disclaimer
 Please note that inside the code you can find **username** and **password** of the **BDS ftp account**. As such, this repository should remain **private.**
