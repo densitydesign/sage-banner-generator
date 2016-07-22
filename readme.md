@@ -2,7 +2,7 @@ Big Data and Society dynamic logo generator
 =======
 
 ###Description and usage
-This routine automatically generates an html banner containing the dynamic logo for the Big Data and Society publications. It works by downloading the latest collection of papers, analyzing the keywords and returning a web visualization in a self-contained HTML file called *bds_banner.html*.
+This routine automatically generates an html banner containing the dynamic logo for the Big Data and Society publications. It works by downloading the latest collection of papers, analyzing the keywords and returning a web visualization in a self-contained HTML file called *generated.html*.
 
 To start using it, you must first collect the project dipendencies with npm:
 
